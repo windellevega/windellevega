@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+I'm a Full Stack Web Application developer based on the Philippines! 
+* I specialize on doing back-end and securely exposing business logic through RESTful APIs (Laravel, ASP.Net)
+* I also do front-end applications using different UI kits (Bootstrap/Materialize) and Javascript frameworks/libraries (VueJS, Angular)
+
+
+### Connect with Me
+
+**Gmail:** windellevega@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/windellevega
+
+**Facebook:** fb.com/windellevega
+
+**Twitter:** @windellevega
+
+**Instagram:** @windellevega
+
+
 <!--
 **windellevega/windellevega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

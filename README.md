@@ -2,6 +2,7 @@
 I'm a Full Stack Web Application developer based in the Philippines! 
 * I specialize on doing back-end and securely exposing business logic through RESTful APIs (Laravel, ASP.Net Core)
 * I also do front-end applications using different UI kits (Bootstrap/Materialize) and Javascript frameworks/libraries (VueJS, Angular)
+* I solve some programming challenges on Codewars on my free time (I mostly use Python)
 
 
 ## Connect with Me

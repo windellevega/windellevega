@@ -16,6 +16,7 @@ I'm a Full Stack Web Application developer based in the Philippines!
 **Instagram:** @windellevega
 
 
+![codewars](https://www.codewars.com/users/windellevega/badges/large)
 <!--
 **windellevega/windellevega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

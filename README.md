@@ -16,10 +16,11 @@ I'm a Full Stack Web Application developer based in the Philippines!
 
 **Instagram:** @windellevega
 
+**StackLeague Rank:** https://stackleague.com/ranking
 
 ![codewars](https://www.codewars.com/users/ign4rus/badges/large)
 
-**StackLeague Rank:** https://stackleague.com/ranking
+
 <!--
 **windellevega/windellevega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

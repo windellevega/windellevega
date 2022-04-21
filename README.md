@@ -16,8 +16,6 @@ I'm a Full Stack Web Application developer based in the Philippines!
 
 **Instagram:** @windellevega
 
-**StackLeague Rank:** https://stackleague.com/ranking
-
 ![codewars](https://www.codewars.com/users/ign4rus/badges/large)
 
 
